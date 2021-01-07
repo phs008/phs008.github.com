@@ -9,7 +9,7 @@ tags:
 ---
 # Real Scene data problem
 
-본인이 다루고 있는 indoor , outdoor image 의 distribution 은 정말정말 Open Long-Taield 하다.
+필자가 다루고 있는 indoor , outdoor image 의 distribution 은 정말정말 Open Long-Taield 하다.
 
 Open Long-Tailed Recognition (aka. OLTR) 에 관해서는 차후 다루기로 하고...
 
