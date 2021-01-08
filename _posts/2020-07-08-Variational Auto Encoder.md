@@ -7,6 +7,7 @@ categories:
 tags:
  - Generative model
  - auto encoder
+toc: true
 ---
 ## 판별 모델 과 생성 모델의 차이
 일반적인 기게학습은 판별모델 (discriminative model)이다.

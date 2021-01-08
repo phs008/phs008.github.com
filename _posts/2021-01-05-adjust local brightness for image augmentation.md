@@ -6,6 +6,7 @@ categories:
 tags:
     - data augmentation
     - local brightness
+toc: true
 ---
 # Real Scene data problem
 

@@ -6,6 +6,7 @@ categories:
 tags:
  - PyTorch
  - Distributed Training
+toc: true
 ---
 ## PyTorch Distributed Training 
 ### Distributed Training

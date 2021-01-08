@@ -5,6 +5,7 @@ categories:
  - paper
 tags:
  - activation function
+toc: true
 ---
 ## Searching for Activation Function
 * 출처 : https://arxiv.org/abs/1710.05941

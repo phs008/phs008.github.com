@@ -7,6 +7,7 @@ tags:
  - PyTorch
  - Distributed Training
  - apex
+toc: true
 ---
 ## Pytorch Distributed with APEX
 Apex 는 NVIDAI 에서 제공하는 Pytorch 용 extension 으로서 주된 기능은 다음 4개와 같다.

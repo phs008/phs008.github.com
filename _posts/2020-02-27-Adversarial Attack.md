@@ -5,6 +5,7 @@ categories:
  - paper
 tags:
  - Adversarial Attack, AdvProp , Adversarial Examples Improve Image Recognition
+toc: true
 ---
 Image 학습 분야에서 Deep Learning 을 활용한 다양한 NN 기술들이 등장하면서 다양한 SOTA 가 나오고 있지만 
 이와 같은 분야에서 Adversarial Attack 에 취약하다는 사실이 알려지고 이를 이용하여 Training 을 해보자.  
