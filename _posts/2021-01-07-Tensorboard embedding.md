@@ -6,6 +6,8 @@ categories:
 tags:
 - tensorboard
 - visualizing
+toc: true
+toc_label: "Tensorboard embedding"
 ---
 #Tensorboard 를 활용한 embedding 방법
 
