@@ -8,7 +8,7 @@ tags:
 - visualizing
 toc: true
 ---
-#Tensorboard 를 활용한 embedding 방법
+# Tensorboard 를 활용한 embedding 방법
 
 Auto encoder 기반의 feature extractor 에 대한 평가를 하는데 있어서 가시화가 되었으면 하는 생각을 하게되었다.
 
@@ -20,7 +20,7 @@ Auto encoder 기반의 feature extractor 에 대한 평가를 하는데 있어�
 
 바로 시도해봅시다.
 
-##Basic of Tensorboard embedding
+## Basic of Tensorboard embedding
 [여기를](https://projector.tensorflow.org/) 클릭하면 Tensorflow 를 통해 word embedding 한 케이스를 볼수 있다.
 
 자세히 살펴보면 좌측상단에 <b>Label by</b> 라는 Label 이란 항목을 확인할수 있다.
@@ -33,7 +33,7 @@ Tensorboard 에선 이 label 을 별도 파일로 저장한다 (metadata.tsv)
 
 그리고 Tensorboard log 에 embedding 하고자 하는 data 를 추가하고 metadata 로 별도로 만든 label 용 파일(metadata.tsv) 을 추가하면 된다.
 
-##Feature Embedding in Tensorboard
+## Feature Embedding in Tensorboard
 
 필자가 Tensorboard feature embedding 을 통해 보고자 했던 것은 Auto encoder 기반으로 data clustering 이 얼마만큼 잘 될수 있는지였다.
 
@@ -81,7 +81,7 @@ Tensorboard 에선 이 label 을 별도 파일로 저장한다 (metadata.tsv)
 > tp.projector.visualize_embeddings(logdir, config)
 >```
 
-##결과
+## 결과
 
 다음과 같은 feature embedding 에 대한 PCA 결과를 볼수있다.
 
